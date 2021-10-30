@@ -8,3 +8,4 @@ API ec2 link: http://54.242.186.78/new 'the whole data"
               http://54.242.186.78/headline_report/<key> 'research keywords in article report '
               http://54.242.186.78//headline_text_full/<key> 'research keywords in article title'
 thank you for the time you spend reading and examining my project 
+  NB:"the data is not all cleaned because it’s a warehousing scraping and i didn't scrap all the data from the website because it’s just a preview challenge and I didn't automate scraping because I'm sure it's recommended to do it using kafka technology"
